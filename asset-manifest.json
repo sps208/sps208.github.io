@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.517a74db.chunk.css",
+    "main.js": "./static/js/main.f7e70ec2.chunk.js",
+    "main.js.map": "./static/js/main.f7e70ec2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b10797a6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b10797a6.js.map",
+    "static/js/2.84d9ca51.chunk.js": "./static/js/2.84d9ca51.chunk.js",
+    "static/js/2.84d9ca51.chunk.js.map": "./static/js/2.84d9ca51.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.dd6d09c76d11e9b13af2f56e2ad240e0.js": "./precache-manifest.dd6d09c76d11e9b13af2f56e2ad240e0.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.517a74db.chunk.css.map": "./static/css/main.517a74db.chunk.css.map",
+    "static/js/2.84d9ca51.chunk.js.LICENSE.txt": "./static/js/2.84d9ca51.chunk.js.LICENSE.txt",
+    "static/media/CV_SatrioPrawiro_Pajakku_compressed.pdf": "./static/media/CV_SatrioPrawiro_Pajakku_compressed.b3d18cd5.pdf",
+    "static/media/About.css": "./static/media/FotoProfile.5ff680ea.jpg",
+    "static/media/ezgif-5-7453034699.gif": "./static/media/ezgif-5-7453034699.34377bee.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b10797a6.js",
+    "static/js/2.84d9ca51.chunk.js",
+    "static/css/main.517a74db.chunk.css",
+    "static/js/main.f7e70ec2.chunk.js"
+  ]
+}
